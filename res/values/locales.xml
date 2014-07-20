@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="locales">
+        <item>en_US</item>
+        <item>en_UK</item>
+        <item>fr</item>
+        <item>es</item>
+        <item>de</item>
+    </string-array>
+</resources>
